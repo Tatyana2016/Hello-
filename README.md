@@ -1,2 +1,2 @@
 # Hello-
-This is my firs
+This is my first GitHub program
